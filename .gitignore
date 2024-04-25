@@ -1,0 +1,40 @@
+# Для игнора IDE
+/.idea/
+/.vscode/
+
+# Конфиги
+.env
+
+# Для Sublime Text
+*.sublime-project
+*.sublime-workspace
+*.cache
+
+# Изображения
+*.jp?g
+*.tiff
+*.png
+*.gif
+*.svg
+*.pdf
+
+# Документы
+*.xls?
+
+# Видео
+*.mp4
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Файлы логов
+*.log
+
+# Игнорируем все файлы .md
+.md
+# Не игнорируем файл README.md
+!README.md
+
+
+
